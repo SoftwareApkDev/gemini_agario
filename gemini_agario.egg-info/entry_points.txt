@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_agario = gemini_agario.gemini_agario:main

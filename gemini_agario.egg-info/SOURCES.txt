@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+gemini_agario.egg-info/PKG-INFO
+gemini_agario.egg-info/SOURCES.txt
+gemini_agario.egg-info/dependency_links.txt
+gemini_agario.egg-info/entry_points.txt
+gemini_agario.egg-info/requires.txt
+gemini_agario.egg-info/top_level.txt
